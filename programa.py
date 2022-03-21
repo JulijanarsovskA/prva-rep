@@ -1,1 +1,1 @@
-print("Hello World") 
+print("Prv den na ovoj kurs") 
